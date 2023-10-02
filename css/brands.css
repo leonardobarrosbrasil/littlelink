@@ -367,6 +367,16 @@ button:hover,
   filter: brightness(90%);
 }
 
+/* GitHub */
+.button.button-minecraft {
+  color: #ffffff;
+  background-color: #80c438;
+}
+.button.button-minecraft:hover,
+.button.button-minecraft:focus {
+  filter: brightness(90%);
+}
+
 /* GitLab */
 .button.button-gitlab {
   color: #ffffff;
