@@ -276,6 +276,16 @@ button:hover,
   filter: brightness(90%);
 }
 
+/* Discord */
+.button.button-cosmos {
+  color: #ffffff;
+  background-color: #1b5cf6;
+}
+.button.button-discord:hover,
+.button.button-discord:focus {
+  filter: brightness(90%);
+}
+
 /* Dribbble */
 .button.button-dribbble {
   color: #000000;
